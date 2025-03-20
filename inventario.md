@@ -11,5 +11,8 @@ Componenti:
 		scheda_madre_2, quantit‡: 43;
 		scheda_madre_3, quantit‡: 27;
 Periferiche:
-
+	Mouse:
+		mouse1, quantit√†: 53;
+		mouse2, quantit√†: 22;
+		mouse2, quantit√†: 64;
 Elettronica Padovana
